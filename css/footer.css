@@ -26,7 +26,6 @@
   margin-bottom: 20px;
 }
 
-
 .footer-contato li a {
   color: #ffffff;
 }
@@ -46,4 +45,9 @@
   .footer-contato li {
     font-size: 1.5rem;
   }
+}
+
+.footer li a {
+  text-decoration: none;
+  color: #ffffff;
 }
